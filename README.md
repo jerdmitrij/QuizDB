@@ -1,2 +1,2 @@
 # QuizDB
-#Dmitrijs Jermolajevs PR-21
+Dmitrijs Jermolajevs PR-21
